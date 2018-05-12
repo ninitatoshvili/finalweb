@@ -1,0 +1,45 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BPGGlahoWEBCaps
+FamilyName:BPG Glaho WEB Caps
+StyleName:Regular
+FullName:BPG Glaho WEB Caps Regular
+MenuName:BPG Glaho WEB Caps
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NINA\Desktop\html pinaluri.tatoshvili\Font\bpg-glaho-web-caps-webfont.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:41508
+FileModTime:1443364172
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,BPG Glaho WEB Caps
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BPGNinoMkhedruliBook
+FamilyName:BPG Nino Mkhedruli Book
+StyleName:Regular
+FullName:BPG Nino Mkhedruli Book Regular
+MenuName:BPG Nino Mkhedruli Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NINA\Desktop\html pinaluri.tatoshvili\Font\bpg-nino-mkhedruli-book-webfont.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:42524
+FileModTime:1441918426
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,BPG Nino Mkhedruli Book
+%EndFont
+
